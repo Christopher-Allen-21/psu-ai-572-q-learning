@@ -31,6 +31,12 @@ The goal of Acrobot is to reach the target height in as few steps as possible. E
 - python /Users/christopherallen/Desktop/Projects/psu-ai-572-q-learning/app.py
 
 ## Execution/Visualization
+- <img width="1185" height="499" alt="Screenshot 2026-07-23 at 9 56 00 AM" src="https://github.com/user-attachments/assets/9bb772d3-078a-4880-bfa6-a48474159201" />
+- <img width="1500" height="763" alt="Screenshot 2026-07-23 at 9 54 30 AM" src="https://github.com/user-attachments/assets/be5fade4-b689-4ee6-b8a9-3dded0f40d31" />
+- <img width="1500" height="759" alt="Screenshot 2026-07-23 at 9 54 40 AM" src="https://github.com/user-attachments/assets/0b44b9da-006d-4bda-9f81-ea2245674a53" />
+- <img width="1500" height="761" alt="Screenshot 2026-07-23 at 9 54 43 AM" src="https://github.com/user-attachments/assets/e28bd0db-cd46-4724-bb71-7b1fb101b8b7" />
+
+
 
 
 
