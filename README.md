@@ -1,4 +1,4 @@
-# PSU AI-572 Q Actor-Critic Algorthm
+# PSU AI-572 Q Learning Algorthm
 
 ## Tasks for Programming Assignment 1
 In this programming assignment you are required to complete the following tasks:
