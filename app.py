@@ -14,21 +14,16 @@ def main():
     print("Observation size:", observation_size)
     print("Number of actions:", n_actions)
 
-    # ---------------------------------------------------------
-    # State discretization
-    # ---------------------------------------------------------
     # Acrobot has six continuous observation values:
-    #
+
     # 0: cos(theta1)
     # 1: sin(theta1)
     # 2: cos(theta2)
     # 3: sin(theta2)
     # 4: angular velocity of theta1
     # 5: angular velocity of theta2
-    #
-    # Each continuous value is divided into discrete bins so
-    # that it can be used as an index in the Q-table.
-    # ---------------------------------------------------------
+
+    # Each continuous value is divided into discrete bins so that it can be used as an index in the Q-table
     state_bins = (
         8,   # cos(theta1)
         8,   # sin(theta1)
